@@ -19,7 +19,7 @@ Prosty skrypt napisany w języku Python do konwersji plików JSON na format XML.
 2. Przejdź do katalogu projektu:
 
     ```
-    cd json_to+xml
+    cd json_to_xml
     ```
 
 3. Uruchom skrypt, wprowadzając ścieżkę do folderu wejściowego i wyjściowego:
