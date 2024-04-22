@@ -1,0 +1,11 @@
+{
+    "FLIGHT": {
+        "AIRCRAFT_REGISTRATION": "SPQWE",
+        "FLIGHT_NUMBER": 456,
+        "FLIGHT_DATE": "2024-03-23",
+        "DEPARTURE_AIRPORT": "CDG",
+        "ARRIVAL_AIRPORT": "SVO",
+        "SCHEDULE_DEPARTURE_TIME": "2024-03-23 12:45:00",
+        "REFUELED_AT": "2024-03-23 12:15:00"
+    }
+}

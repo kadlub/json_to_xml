@@ -1,0 +1,21 @@
+{
+    "FLIGHT": {
+        "AIRCRAFT_REGISTRATION": "SPOIU",
+        "FLIGHT_NUMBER": 579,
+        "FLIGHT_DATE": "2024-03-26",
+        "DEPARTURE_AIRPORT": {
+            "IATA_CODE": "HND",
+            "NAME": "Tokyo Haneda Airport",
+            "CITY": "Tokyo",
+            "COUNTRY": "Japan"
+        },
+        "ARRIVAL_AIRPORT": {
+            "IATA_CODE": "SYD",
+            "NAME": "Sydney Kingsford Smith Airport",
+            "CITY": "Sydney",
+            "COUNTRY": "Australia"
+        },
+        "SCHEDULE_DEPARTURE_TIME": "2024-03-26 23:15:00",
+        "REFUELED_AT": "2024-03-26 22:45:00"
+    }
+}

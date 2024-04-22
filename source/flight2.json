@@ -1,0 +1,11 @@
+{
+    "FLIGHT": {
+        "AIRCRAFT_REGISTRATION": "SPABC",
+        "FLIGHT_NUMBER": 789,
+        "FLIGHT_DATE": "2024-03-22",
+        "DEPARTURE_AIRPORT": "JFK",
+        "ARRIVAL_AIRPORT": "CDG",
+        "SCHEDULE_DEPARTURE_TIME": "2024-03-22 15:30:00",
+        "REFUELED_AT": "2024-03-22 15:00:00"
+    }
+}

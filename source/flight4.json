@@ -1,0 +1,21 @@
+{
+    "FLIGHT": {
+        "AIRCRAFT_REGISTRATION": "SPJKL",
+        "FLIGHT_NUMBER": 246,
+        "FLIGHT_DATE": "2024-03-24",
+        "DEPARTURE_AIRPORT": {
+            "IATA_CODE": "LHR",
+            "NAME": "Heathrow Airport",
+            "CITY": "London",
+            "COUNTRY": "United Kingdom"
+        },
+        "ARRIVAL_AIRPORT": {
+            "IATA_CODE": "MUC",
+            "NAME": "Munich Airport",
+            "CITY": "Munich",
+            "COUNTRY": "Germany"
+        },
+        "SCHEDULE_DEPARTURE_TIME": "2024-03-24 10:45:00",
+        "REFUELED_AT": "2024-03-24 10:15:00"
+    }
+}
